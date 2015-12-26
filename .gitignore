@@ -5,3 +5,4 @@ SimpleLogger.sln
 SimpleLogger/SimpleLogger.vcxproj
 SimpleLogger.sdf
 SimpleLogger/SimpleLogger.vcxproj.filters
+SimpleLogger/log.txt
